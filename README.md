@@ -1,6 +1,18 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
+
+```text
+From: 29 September 2022 - To: 09 November 2022
+
+Total Time: 10 hrs 43 mins
+
+JavaScript   9 hrs 44 mins   >>>>>>>>>>>>>>>>>>>>>>>--   90.81 %
+HTML         45 mins         >>-----------------------   07.13 %
+JSON         12 mins         -------------------------   01.93 %
+Other        0 secs          -------------------------   00.08 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--
