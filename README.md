@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 September 2022 - To: 16 November 2022
+From: 29 September 2022 - To: 17 November 2022
 
-Total Time: 28 hrs 2 mins
+Total Time: 28 hrs 21 mins
 
-JavaScript   21 hrs 9 mins   >>>>>>>>>>>>>>>>>>>------   75.46 %
-HTML         4 hrs 6 mins    >>>>---------------------   14.67 %
-SQL          1 hr 48 mins    >>-----------------------   06.43 %
-JSON         39 mins         >------------------------   02.33 %
-Text         5 mins          -------------------------   00.32 %
+JavaScript   21 hrs 9 mins   >>>>>>>>>>>>>>>>>>>------   74.62 %
+HTML         4 hrs 25 mins   >>>>---------------------   15.59 %
+SQL          1 hr 48 mins    >>-----------------------   06.35 %
+JSON         39 mins         >------------------------   02.30 %
+Text         5 mins          -------------------------   00.31 %
 Bash         4 mins          -------------------------   00.27 %
 ```
 
