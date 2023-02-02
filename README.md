@@ -7,9 +7,9 @@ My name is Viet Nguyen. I am an M.Sc. in Computer Science, majoring in Artificia
 
 ![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tranhieu1906&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
-<a href="https://github.com/uvipen/QuickDraw/">
+<a href="https://github.com/tranhieu1906/Instagram">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=QuickDraw&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tranhieu1906&repo=Instagram&theme=radical" />
 </a>    
 <a href="https://github.com/uvipen/ASCII-generator/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
