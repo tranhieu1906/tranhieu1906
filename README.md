@@ -5,7 +5,7 @@ Tôi tên là Nguyễn Trần Hiếu. <br>
  [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/tranhieu1906/)
 
 
-![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tranhieu1906&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+![Hieu's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tranhieu1906&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
 <a href="https://github.com/tranhieu1906/Instagram">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
