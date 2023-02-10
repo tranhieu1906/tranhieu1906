@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-Tôi tên là Nguyễn Trần Hiếu. <br>
+My name is Hieu. <br>
 ## 📫 How to reach me: 
 
  [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/tranhieu1906/)
