@@ -8,7 +8,7 @@ My name is Hieu. <br>
 
 <a href="https://github.com/tranhieu1906/Trello">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tranhieu1906&repo=Trello&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tranhieu1906&repo=Trello&theme=tokyonight" />
 </a>
 <a href="https://github.com/tranhieu1906/Instagram">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
